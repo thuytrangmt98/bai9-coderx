@@ -5,4 +5,4 @@ function mouse(name) {
 mouse.prototype.eat = function() {
 	this.isDead = true;
 };
-module.export = Mouse;
+module.exports = Mouse;

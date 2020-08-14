@@ -5,4 +5,4 @@ function cat(name) {
 cat.prototype.eat = function() {
 	this.stomach.push(mouse);
 };
-module.export = Cat;
+module.exports = Cat;
